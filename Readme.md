@@ -1,7 +1,7 @@
 ## EMVS - Employee Management & Visualization System
 
 <p align="center">
-  <img src="https://github.com/mahela98/Acumatica-React-Frontend/assets/59562575/25f8bce5-9073-43e5-a5ab-01606ce503d0" alt="OIG" width=10%>
+  <img src="https://github.com/mahela98/Acumatica-React-Frontend/assets/59562575/db1d2c1a-20d5-4a62-8895-015487e650ff" alt="OIG" width=10%>
 </p>
 
 
